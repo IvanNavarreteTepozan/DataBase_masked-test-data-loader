@@ -1,6 +1,6 @@
 \#README:
 Requisitos:
-
+_(NOTA_ACTUALMENTE LA BASE DE DATOS FUE CERRADA por lo que no hay conexion)
 -Sistema operatvo Windows
 
 
