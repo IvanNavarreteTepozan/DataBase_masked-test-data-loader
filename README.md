@@ -1,9 +1,12 @@
-\#README:
-Requisitos:
+
+
 #NOTA_ACTUALMENTE LA BASE DE DATOS FUE CERRADA por lo que no hay conexión
 -Sistema operatvo Windows
 
 
+
+Requisitos:
+______________
 
 -Tener instalado python 3.11.9
 
